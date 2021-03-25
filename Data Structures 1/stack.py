@@ -33,7 +33,7 @@ class Stack:
             return self.stack[-1]
     
 
-#test#
+#TEST#
 
 a = Stack() # I create my object
 a.push(10) # insert the  element
